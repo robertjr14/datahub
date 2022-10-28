@@ -138,7 +138,7 @@ jsonpatch==1.32
 jsonpointer==2.3
 jsonschema==3.2.0
 jupyter-client==7.3.4
-jupyter-core==4.10.0
+jupyter-core==4.11.2
 jupyterlab-pygments==0.2.2
 lazy-object-proxy==1.7.1
 linear-tsv==1.1.0
