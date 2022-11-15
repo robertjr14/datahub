@@ -190,7 +190,7 @@ progressbar2==4.0.0
 prometheus-client==0.14.1
 prompt-toolkit==3.0.29
 proto-plus==1.19.6
-protobuf==3.20.1
+protobuf==3.20.2
 psutil==5.9.1
 psycopg2-binary==2.9.3
 ptyprocess==0.7.0
@@ -312,3 +312,4 @@ xlrd==2.0.1
 xmltodict==0.13.0
 yarl==1.7.2
 zipp==3.8.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
