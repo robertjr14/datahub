@@ -90,7 +90,7 @@ Flask-SQLAlchemy==2.5.1
 Flask-WTF==0.14.3
 flatdict==4.0.1
 frozenlist==1.3.0
-future==0.18.2
+future==0.18.3
 GeoAlchemy2==0.11.1
 google-api-core==2.8.0
 google-auth==2.8.0
