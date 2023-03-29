@@ -1,7 +1,7 @@
 # Defining environment
 ARG APP_ENV=prod
 
-FROM alpine:3.14 AS base
+FROM alpine:3.16 AS base
 
 ENV DOCKERIZE_VERSION v0.6.1
 
