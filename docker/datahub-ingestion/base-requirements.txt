@@ -205,7 +205,7 @@ pycparser==2.21
 pycryptodome==3.14.1
 pycryptodomex==3.14.1
 pydantic==1.9.1
-pydash==5.1.0
+pydash==6.0.0
 pydeequ==1.0.1
 pydruid==0.6.3
 Pygments==2.12.0
