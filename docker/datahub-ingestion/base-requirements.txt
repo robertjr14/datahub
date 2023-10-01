@@ -8,7 +8,7 @@ aiosignal==1.2.0
 alembic==1.8.0
 altair==4.2.0
 anyio==3.6.1
-apache-airflow==2.2.5
+apache-airflow==2.7.0
 apache-airflow-providers-ftp==3.0.0
 apache-airflow-providers-http==3.0.0
 apache-airflow-providers-imap==3.0.0
@@ -158,7 +158,7 @@ mixpanel==4.9.0
 mmh3==3.0.0
 more-itertools==8.13.0
 moto==3.1.14
-msal==1.16.0
+msal==1.24.1
 msal-extensions==1.0.0
 msrest==0.7.1
 multidict==6.0.2
@@ -204,7 +204,7 @@ pyathena==2.4.1
 pycparser==2.21
 pycryptodome==3.14.1
 pycryptodomex==3.14.1
-pydantic==1.9.1
+pydantic==1.10.13
 pydash==5.1.0
 pydeequ==1.0.1
 pydruid==0.6.3
