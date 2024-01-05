@@ -202,8 +202,8 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyathena==2.4.1
 pycparser==2.21
-pycryptodome==3.14.1
-pycryptodomex==3.14.1
+pycryptodome==3.19.1
+pycryptodomex==3.19.1
 pydantic==1.9.1
 pydash==5.1.0
 pydeequ==1.0.1
