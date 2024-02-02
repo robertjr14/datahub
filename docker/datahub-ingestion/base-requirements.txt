@@ -8,7 +8,7 @@ aiosignal==1.2.0
 alembic==1.8.0
 altair==4.2.0
 anyio==3.6.1
-apache-airflow==2.2.5
+apache-airflow==2.6.3
 apache-airflow-providers-ftp==3.0.0
 apache-airflow-providers-http==3.0.0
 apache-airflow-providers-imap==3.0.0
@@ -202,7 +202,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyathena==2.4.1
 pycparser==2.21
-pycryptodome==3.14.1
+pycryptodome==3.19.1
 pycryptodomex==3.14.1
 pydantic==1.9.1
 pydash==5.1.0
