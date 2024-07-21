@@ -1,4 +1,4 @@
-FROM python:3.10.7 as base
+FROM python:3.13.0b3 as base
 
 ENV DOCKERIZE_VERSION v0.6.1
 ENV LIBRDKAFKA_VERSION=1.6.2
