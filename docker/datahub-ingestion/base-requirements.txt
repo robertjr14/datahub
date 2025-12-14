@@ -281,7 +281,7 @@ thrift-sasl==0.4.3
 tinycss2==1.1.1
 toml==0.10.2
 toolz==0.11.2
-tornado==6.1
+tornado==6.5.3
 tqdm==4.64.0
 traitlets==5.2.1.post0
 trino==0.313.0
@@ -295,7 +295,7 @@ tzdata==2022.1
 tzlocal==4.2
 ujson==5.3.0
 unicodecsv==0.14.1
-urllib3==1.26.9
+urllib3==2.6.0
 uvicorn==0.17.6
 uvloop==0.16.0
 vertica-python==1.1.0
